@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "42ebe9c0-7c91-4a0d-96e5-ba4fd33108a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "好房拓 4.0.0 iconfont_朋友圈": {
+      "ver": "1.0.3",
+      "uuid": "f75717e2-64a0-4011-85cc-a151cbcdd661",
+      "rawTextureUuid": "42ebe9c0-7c91-4a0d-96e5-ba4fd33108a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 12,
+      "trimY": 12,
+      "width": 76,
+      "height": 76,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
